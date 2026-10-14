@@ -8,7 +8,14 @@ Backend/API [HERE](https://github.com/JakeButterfield99/icohabit-laravel)
 
 - Add members to your 'household'
 - Shared tasks/chores list
+- Shard pinboard/notes
 - Shared grocery list & meal ideas
+
+## Technologies
+
+- React Native
+- Typescript
+- Expo
 
 ## License
 
